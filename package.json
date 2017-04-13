@@ -1,0 +1,35 @@
+{
+  "name": "reactjs-open-data",
+  "version": "1.0.0",
+  "description": "A simple ReactJS app built for learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascript-br/reactjs-open-data.git"
+  },
+  "keywords": [
+    "jsbr",
+    "javascript-br",
+    "javascript",
+    "brasil"
+  ],
+  "author": "##javascript-br",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/javascript-br/reactjs-open-data/issues"
+  },
+  "homepage": "https://github.com/javascript-br/reactjs-open-data#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.3.3",
+    "webpack": "^2.3.3"
+  }
+}
